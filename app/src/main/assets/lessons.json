@@ -1,0 +1,2434 @@
+{
+"lessons": [
+{
+"words": [
+{
+"en": "morning",
+"ar": "الصباح",
+"ex": "I drink tea every morning."
+},
+{
+"en": "breakfast",
+"ar": "الفطور",
+"ex": "We eat breakfast at seven."
+},
+{
+"en": "shower",
+"ar": "دُش / استحمام",
+"ex": "She takes a shower after work."
+},
+{
+"en": "brush",
+"ar": "ينظّف بالفرشاة",
+"ex": "I brush my teeth twice a day."
+},
+{
+"en": "early",
+"ar": "مبكرًا",
+"ex": "He wakes up early."
+},
+{
+"en": "late",
+"ar": "متأخرًا",
+"ex": "Don't be late for school."
+},
+{
+"en": "usually",
+"ar": "عادةً",
+"ex": "I usually walk to work."
+},
+{
+"en": "schedule",
+"ar": "جدول",
+"ex": "My schedule is full today."
+},
+{
+"en": "habit",
+"ar": "عادة",
+"ex": "Reading is a good habit."
+},
+{
+"en": "sleep",
+"ar": "ينام / نوم",
+"ex": "I sleep eight hours every night."
+}
+],
+"story": {
+"title": "A Simple Morning",
+"text": "Sara wakes up early every morning. First, she brushes her teeth and takes a shower. Then she has breakfast with her family. She usually drinks tea and eats bread with cheese. After breakfast, she goes to school by bus. Sara loves mornings because they give her energy for the whole day.",
+"q": "What does Sara usually drink at breakfast?",
+"opts": [
+"Coffee",
+"Tea",
+"Milk"
+],
+"a": 1
+},
+"grammar": {
+"title": "الفعل To be (am / is / are)",
+"explain": "نستخدم am مع I، و is مع he / she / it، و are مع you / we / they. ونستخدمه للتعريف بالنفس ووصف الأشخاص والأشياء والحالات.",
+"examples": [
+"I am a student.",
+"She is happy.",
+"They are at home."
+],
+"q": "Choose the correct word: We ___ friends.",
+"opts": [
+"is",
+"am",
+"are"
+],
+"a": 2
+}
+},
+{
+"words": [
+{
+"en": "price",
+"ar": "السعر",
+"ex": "What is the price of this shirt?"
+},
+{
+"en": "cheap",
+"ar": "رخيص",
+"ex": "This phone is cheap."
+},
+{
+"en": "expensive",
+"ar": "غالٍ",
+"ex": "The car is too expensive for me."
+},
+{
+"en": "buy",
+"ar": "يشتري",
+"ex": "I want to buy some bread."
+},
+{
+"en": "sell",
+"ar": "يبيع",
+"ex": "They sell fresh fruit here."
+},
+{
+"en": "market",
+"ar": "سوق",
+"ex": "We go to the market on Fridays."
+},
+{
+"en": "discount",
+"ar": "خصم",
+"ex": "There is a ten percent discount today."
+},
+{
+"en": "receipt",
+"ar": "إيصال",
+"ex": "Keep the receipt, please."
+},
+{
+"en": "cash",
+"ar": "نقد",
+"ex": "Do you pay by cash or card?"
+},
+{
+"en": "bag",
+"ar": "حقيبة / كيس",
+"ex": "Can I have a bag, please?"
+}
+],
+"story": {
+"title": "At the Market",
+"text": "Omar goes to the market with his mother. They want to buy fruit and vegetables. The apples are cheap today, but the oranges are expensive. His mother asks for a discount, and the seller smiles and agrees. They pay in cash and take a receipt. Omar carries the bags home happily.",
+"q": "Which fruit is expensive today?",
+"opts": [
+"Apples",
+"Oranges",
+"Bananas"
+],
+"a": 1
+},
+"grammar": {
+"title": "المضارع البسيط (Present Simple)",
+"explain": "نستخدمه للعادات والحقائق. نضيف s أو es للفعل مع he / she / it. وللنفي نستخدم don't مع I / you / we / they، و doesn't مع he / she / it.",
+"examples": [
+"I work every day.",
+"He works in a bank.",
+"She doesn't drink coffee."
+],
+"q": "She ___ to school every day.",
+"opts": [
+"go",
+"goes",
+"going"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "ticket",
+"ar": "تذكرة",
+"ex": "I bought a ticket online."
+},
+{
+"en": "airport",
+"ar": "مطار",
+"ex": "We arrived at the airport early."
+},
+{
+"en": "passport",
+"ar": "جواز سفر",
+"ex": "Don't forget your passport."
+},
+{
+"en": "luggage",
+"ar": "أمتعة",
+"ex": "My luggage is very heavy."
+},
+{
+"en": "journey",
+"ar": "رحلة",
+"ex": "The journey took five hours."
+},
+{
+"en": "hotel",
+"ar": "فندق",
+"ex": "The hotel is near the beach."
+},
+{
+"en": "reservation",
+"ar": "حجز",
+"ex": "I made a reservation for two nights."
+},
+{
+"en": "arrive",
+"ar": "يصل",
+"ex": "The train arrives at noon."
+},
+{
+"en": "leave",
+"ar": "يغادر",
+"ex": "We leave at six in the morning."
+},
+{
+"en": "destination",
+"ar": "وجهة",
+"ex": "Paris is my dream destination."
+}
+],
+"story": {
+"title": "The Trip to Istanbul",
+"text": "Layla and her brother are going on a trip to Istanbul. They arrive at the airport early. They show their passports, check their luggage, and wait for the flight. The journey takes four hours. When they arrive, a taxi takes them to the hotel. Their reservation is for five nights, and Layla cannot wait to explore the city.",
+"q": "How long is the flight?",
+"opts": [
+"Two hours",
+"Four hours",
+"Five hours"
+],
+"a": 1
+},
+"grammar": {
+"title": "الماضي البسيط (Past Simple)",
+"explain": "نستخدمه للأحداث التي انتهت في الماضي. في الأفعال المنتظمة نضيف ed للفعل. وللنفي نستخدم didn't مع الفعل في صورته الأساسية.",
+"examples": [
+"I visited my uncle yesterday.",
+"They played football last night.",
+"She didn't call me."
+],
+"q": "Yesterday, we ___ a movie.",
+"opts": [
+"watch",
+"watched",
+"watching"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "delicious",
+"ar": "لذيذ",
+"ex": "The soup is delicious."
+},
+{
+"en": "hungry",
+"ar": "جائع",
+"ex": "I am hungry after the game."
+},
+{
+"en": "thirsty",
+"ar": "عطشان",
+"ex": "He is thirsty, so he drinks water."
+},
+{
+"en": "recipe",
+"ar": "وصفة طعام",
+"ex": "My grandmother has a famous recipe."
+},
+{
+"en": "ingredient",
+"ar": "مكوّن",
+"ex": "Rice is the main ingredient."
+},
+{
+"en": "fresh",
+"ar": "طازج",
+"ex": "I only buy fresh vegetables."
+},
+{
+"en": "spicy",
+"ar": "حارّ بالتوابل",
+"ex": "This curry is too spicy for me."
+},
+{
+"en": "sweet",
+"ar": "حلو",
+"ex": "She likes sweet tea."
+},
+{
+"en": "cook",
+"ar": "يطبخ",
+"ex": "My father cooks on weekends."
+},
+{
+"en": "dinner",
+"ar": "العشاء",
+"ex": "We have dinner at eight."
+}
+],
+"story": {
+"title": "Grandma's Soup",
+"text": "On Friday, Nora visits her grandmother. She is very hungry. Her grandmother cooks a delicious soup with fresh vegetables. The recipe is old, and the main ingredient is lentils. Nora asks for a second bowl because the soup is warm and a little spicy. After dinner, they drink sweet tea together.",
+"q": "What is the main ingredient of the soup?",
+"opts": [
+"Rice",
+"Lentils",
+"Chicken"
+],
+"a": 1
+},
+"grammar": {
+"title": "There is / There are",
+"explain": "نستخدم There is مع المفرد وغير المعدود، و There are مع الجمع. وفي السؤال نقدّم is أو are: Is there ...? Are there ...?",
+"examples": [
+"There is a book on the table.",
+"There are three apples in the bag.",
+"Is there any milk?"
+],
+"q": "There ___ many students in the class.",
+"opts": [
+"is",
+"are",
+"am"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "job",
+"ar": "وظيفة",
+"ex": "He is looking for a new job."
+},
+{
+"en": "manager",
+"ar": "مدير",
+"ex": "The manager is in his office."
+},
+{
+"en": "meeting",
+"ar": "اجتماع",
+"ex": "We have a meeting at ten."
+},
+{
+"en": "salary",
+"ar": "راتب",
+"ex": "Her salary is paid monthly."
+},
+{
+"en": "deadline",
+"ar": "موعد نهائي",
+"ex": "The deadline is next Monday."
+},
+{
+"en": "colleague",
+"ar": "زميل عمل",
+"ex": "My colleague helped me with the report."
+},
+{
+"en": "experience",
+"ar": "خبرة",
+"ex": "She has five years of experience."
+},
+{
+"en": "interview",
+"ar": "مقابلة عمل",
+"ex": "I have a job interview tomorrow."
+},
+{
+"en": "project",
+"ar": "مشروع",
+"ex": "We are working on a big project."
+},
+{
+"en": "skill",
+"ar": "مهارة",
+"ex": "Speaking English is a useful skill."
+}
+],
+"story": {
+"title": "A New Job",
+"text": "Ahmed has a job interview today. He feels nervous, but he has good experience and strong skills. The manager asks him about his last project. Ahmed answers clearly and confidently. At the end, the manager says, 'You start on Monday.' Ahmed is very happy and calls his family. He cannot wait to meet his new colleagues.",
+"q": "When does Ahmed start work?",
+"opts": [
+"Today",
+"On Monday",
+"Next year"
+],
+"a": 1
+},
+"grammar": {
+"title": "أدوات التنكير والتعريف (a / an / the)",
+"explain": "نستخدم a قبل الكلمات التي تبدأ بصوت ساكن، و an قبل الكلمات التي تبدأ بصوت متحرك (a, e, i, o, u). ونستخدم the عندما نتحدث عن شيء محدد معروف للطرفين.",
+"examples": [
+"I have a car.",
+"She eats an apple every day.",
+"The car is red."
+],
+"q": "He is ___ engineer.",
+"opts": [
+"a",
+"an",
+"the"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "healthy",
+"ar": "صحّي",
+"ex": "Fruit and vegetables are healthy."
+},
+{
+"en": "medicine",
+"ar": "دواء",
+"ex": "Take this medicine twice a day."
+},
+{
+"en": "headache",
+"ar": "صداع",
+"ex": "I have a headache today."
+},
+{
+"en": "exercise",
+"ar": "تمرين / يتمرّن",
+"ex": "I exercise three times a week."
+},
+{
+"en": "doctor",
+"ar": "طبيب",
+"ex": "You should see a doctor."
+},
+{
+"en": "sick",
+"ar": "مريض",
+"ex": "He stayed home because he was sick."
+},
+{
+"en": "rest",
+"ar": "راحة / يرتاح",
+"ex": "You need to rest for two days."
+},
+{
+"en": "diet",
+"ar": "نظام غذائي",
+"ex": "She follows a healthy diet."
+},
+{
+"en": "energy",
+"ar": "طاقة",
+"ex": "Sleep gives you more energy."
+},
+{
+"en": "pain",
+"ar": "ألم",
+"ex": "I feel pain in my back."
+}
+],
+"story": {
+"title": "A Healthy Week",
+"text": "Khaled felt sick last week. He had a headache and no energy. He visited the doctor, who gave him some medicine and said, 'You need to rest.' After two days, Khaled felt better. Now he follows a healthy diet and exercises every morning. He says that being healthy is the best gift.",
+"q": "What did the doctor tell Khaled to do?",
+"opts": [
+"Travel",
+"Rest",
+"Work more"
+],
+"a": 1
+},
+"grammar": {
+"title": "الفعل can للقدرة",
+"explain": "نستخدم can للتعبير عن القدرة أو الإذن، ونفيه can't. وبعد can نأتي بالفعل في صورته الأساسية بدون to.",
+"examples": [
+"I can swim.",
+"She can't drive.",
+"Can you help me?"
+],
+"q": "I ___ speak English.",
+"opts": [
+"can",
+"cans",
+"can to"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "friend",
+"ar": "صديق",
+"ex": "A good friend is a gift."
+},
+{
+"en": "weather",
+"ar": "الطقس",
+"ex": "The weather is cold today."
+},
+{
+"en": "sunny",
+"ar": "مشمس",
+"ex": "It is sunny, so let's go out."
+},
+{
+"en": "rainy",
+"ar": "ممطر",
+"ex": "It was rainy all day."
+},
+{
+"en": "weekend",
+"ar": "عطلة نهاية الأسبوع",
+"ex": "What are you doing this weekend?"
+},
+{
+"en": "invite",
+"ar": "يدعو",
+"ex": "I want to invite you to dinner."
+},
+{
+"en": "together",
+"ar": "معًا",
+"ex": "We study together every evening."
+},
+{
+"en": "plan",
+"ar": "خطة / يخطّط",
+"ex": "We have a plan for Friday."
+},
+{
+"en": "visit",
+"ar": "يزور",
+"ex": "I visit my grandparents often."
+},
+{
+"en": "enjoy",
+"ar": "يستمتع",
+"ex": "They enjoy walking by the sea."
+}
+],
+"story": {
+"title": "The Weekend Plan",
+"text": "Huda calls her friend Mona. 'The weather is sunny this weekend,' she says. 'Let's go to the park together!' Mona loves the plan. She invites her cousin too. On Saturday, the three of them visit the park, play games, and enjoy a picnic. They promise to meet again next weekend.",
+"q": "Where do the friends go on Saturday?",
+"opts": [
+"To the park",
+"To the market",
+"To the airport"
+],
+"a": 0
+},
+"grammar": {
+"title": "المستقبل البسيط (will)",
+"explain": "نستخدم will مع الفعل في صورته الأساسية للتعبير عن قرارات وتوقعات المستقبل. والنفي will not وتُختصر إلى won't.",
+"examples": [
+"I will call you tonight.",
+"It will rain tomorrow.",
+"We won't be late."
+],
+"q": "Tomorrow, I ___ visit my friend.",
+"opts": [
+"will",
+"did",
+"am"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "kitchen",
+"ar": "المطبخ",
+"ex": "My mother is cooking in the kitchen."
+},
+{
+"en": "bedroom",
+"ar": "غرفة النوم",
+"ex": "My bedroom is on the second floor."
+},
+{
+"en": "bathroom",
+"ar": "الحمّام",
+"ex": "The bathroom is next to the kitchen."
+},
+{
+"en": "garden",
+"ar": "حديقة",
+"ex": "We have a small garden behind the house."
+},
+{
+"en": "roof",
+"ar": "سقف / سطح",
+"ex": "The cat is sitting on the roof."
+},
+{
+"en": "window",
+"ar": "نافذة",
+"ex": "Please open the window."
+},
+{
+"en": "door",
+"ar": "باب",
+"ex": "Close the door, please."
+},
+{
+"en": "furniture",
+"ar": "أثاث",
+"ex": "We bought new furniture last week."
+},
+{
+"en": "neighbor",
+"ar": "جار",
+"ex": "My neighbor is very kind."
+},
+{
+"en": "rent",
+"ar": "إيجار / يستأجر",
+"ex": "They pay the rent on the first of the month."
+}
+],
+"story": {
+"title": "Our New House",
+"text": "Hana and her family moved to a new house last month. The house has a kitchen, three bedrooms, and a small garden. Hana's bedroom has a big window, and she can see the street from it. Their neighbor brought them a cake on the first day. Hana thinks the new house is small but very warm.",
+"q": "Who brought a cake?",
+"opts": [
+"The neighbor",
+"The manager",
+"The doctor"
+],
+"a": 0
+},
+"grammar": {
+"title": "حروف الجر للمكان (in / on / under / next to)",
+"explain": "in تعني داخل شيء، و on تعني فوق سطح وملامسًا له، و under تعني تحت، و next to تعني بجانب.",
+"examples": [
+"The keys are in the bag.",
+"The book is on the table.",
+"The cat is under the chair."
+],
+"q": "The picture is ___ the wall.",
+"opts": [
+"in",
+"on",
+"under"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "parents",
+"ar": "الوالدان",
+"ex": "My parents live in a small town."
+},
+{
+"en": "brother",
+"ar": "أخ",
+"ex": "My brother plays football."
+},
+{
+"en": "sister",
+"ar": "أخت",
+"ex": "My sister is older than me."
+},
+{
+"en": "uncle",
+"ar": "عمّ / خال",
+"ex": "My uncle owns a shop."
+},
+{
+"en": "aunt",
+"ar": "عمّة / خالة",
+"ex": "My aunt visits us every Friday."
+},
+{
+"en": "cousin",
+"ar": "ابن أو بنت العم / الخال",
+"ex": "My cousin is studying medicine."
+},
+{
+"en": "grandfather",
+"ar": "الجدّ",
+"ex": "My grandfather tells great stories."
+},
+{
+"en": "husband",
+"ar": "زوج",
+"ex": "Her husband works at a hospital."
+},
+{
+"en": "wife",
+"ar": "زوجة",
+"ex": "His wife teaches English."
+},
+{
+"en": "relative",
+"ar": "قريب من العائلة",
+"ex": "Many relatives came to the wedding."
+}
+],
+"story": {
+"title": "A Family Lunch",
+"text": "Every Friday, the whole family meets at Grandfather's house. Uncle Ali brings fruit, and Aunt Mariam brings sweets. The cousins play in the garden while the parents talk in the living room. Grandfather sits in his favorite chair and tells old stories. Everyone says that Friday is the best day of the week.",
+"q": "Where does the family meet?",
+"opts": [
+"At the school",
+"At Grandfather's house",
+"At a restaurant"
+],
+"a": 1
+},
+"grammar": {
+"title": "صفات الملكية (my / your / his / her / our / their)",
+"explain": "نضعها قبل الاسم لتوضح لمن يعود: my لي، your لك، his له، her لها، our لنا، their لهم.",
+"examples": [
+"This is my brother.",
+"Her sister is a nurse.",
+"Their house is big."
+],
+"q": "Sara loves ___ grandmother.",
+"opts": [
+"his",
+"her",
+"their"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "shirt",
+"ar": "قميص",
+"ex": "He wears a white shirt."
+},
+{
+"en": "dress",
+"ar": "فستان",
+"ex": "She bought a long dress."
+},
+{
+"en": "shoes",
+"ar": "حذاء",
+"ex": "My shoes are old."
+},
+{
+"en": "jacket",
+"ar": "سترة",
+"ex": "Take your jacket, it's cold outside."
+},
+{
+"en": "size",
+"ar": "مقاس",
+"ex": "What size do you wear?"
+},
+{
+"en": "wear",
+"ar": "يرتدي",
+"ex": "She wears glasses."
+},
+{
+"en": "try on",
+"ar": "يجرّب ملابس",
+"ex": "Can I try on this jacket?"
+},
+{
+"en": "fit",
+"ar": "يناسب المقاس",
+"ex": "These trousers don't fit me."
+},
+{
+"en": "color",
+"ar": "لون",
+"ex": "What color do you like?"
+},
+{
+"en": "fashion",
+"ar": "موضة",
+"ex": "He is interested in fashion."
+}
+],
+"story": {
+"title": "The Blue Jacket",
+"text": "Adam wants to buy a new jacket for winter. At the shop, he tries on a blue jacket in size medium. It fits him perfectly, and the color looks great. The seller says the price is fifty dollars. Adam is wearing his old shoes, so he decides to look at new shoes too. He leaves the shop with two bags.",
+"q": "What size is the jacket?",
+"opts": [
+"Small",
+"Medium",
+"Large"
+],
+"a": 1
+},
+"grammar": {
+"title": "المضارع المستمر (Present Continuous)",
+"explain": "نستخدمه للأحداث التي تحدث الآن. الصيغة: am / is / are + الفعل مع ing.",
+"examples": [
+"I am wearing a new shirt.",
+"She is reading a book.",
+"They are playing outside."
+],
+"q": "Look! The children ___ in the garden.",
+"opts": [
+"play",
+"are playing",
+"played"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "lesson",
+"ar": "درس",
+"ex": "Today's lesson is easy."
+},
+{
+"en": "teacher",
+"ar": "معلّم",
+"ex": "My teacher is very patient."
+},
+{
+"en": "homework",
+"ar": "واجب منزلي",
+"ex": "I finish my homework before dinner."
+},
+{
+"en": "exam",
+"ar": "امتحان",
+"ex": "The exam starts at nine."
+},
+{
+"en": "pencil",
+"ar": "قلم رصاص",
+"ex": "Can I borrow your pencil?"
+},
+{
+"en": "notebook",
+"ar": "دفتر",
+"ex": "Write the words in your notebook."
+},
+{
+"en": "subject",
+"ar": "مادة دراسية",
+"ex": "Math is my favorite subject."
+},
+{
+"en": "classroom",
+"ar": "فصل دراسي",
+"ex": "The classroom is quiet."
+},
+{
+"en": "answer",
+"ar": "إجابة / يجيب",
+"ex": "Do you know the answer?"
+},
+{
+"en": "mistake",
+"ar": "خطأ",
+"ex": "Everyone makes mistakes."
+}
+],
+"story": {
+"title": "Exam Day",
+"text": "Yara has an English exam today. Last night, she studied her notes and finished her homework. In the classroom, the teacher gives everyone a paper. Yara reads the questions carefully and writes her answers. She makes one small mistake, but she feels proud. After the exam, she meets her friends and they go home together.",
+"q": "How many mistakes did Yara make?",
+"opts": [
+"None",
+"One small mistake",
+"Five mistakes"
+],
+"a": 1
+},
+"grammar": {
+"title": "أدوات الاستفهام (What / Where / When / Why / How)",
+"explain": "What للسؤال عن الشيء، و Where عن المكان، و When عن الوقت، و Why عن السبب، و How عن الطريقة أو الحال.",
+"examples": [
+"What is your name?",
+"Where do you live?",
+"Why are you late?"
+],
+"q": "___ is the party? At eight o'clock.",
+"opts": [
+"Where",
+"When",
+"Why"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "bus",
+"ar": "حافلة",
+"ex": "The bus is late today."
+},
+{
+"en": "train",
+"ar": "قطار",
+"ex": "I go to work by train."
+},
+{
+"en": "taxi",
+"ar": "سيارة أجرة",
+"ex": "Let's take a taxi."
+},
+{
+"en": "road",
+"ar": "طريق",
+"ex": "The road is very busy."
+},
+{
+"en": "traffic",
+"ar": "زحام المرور",
+"ex": "There is a lot of traffic in the morning."
+},
+{
+"en": "drive",
+"ar": "يقود سيارة",
+"ex": "He drives a small car."
+},
+{
+"en": "fast",
+"ar": "سريع",
+"ex": "The train is faster than the bus."
+},
+{
+"en": "slow",
+"ar": "بطيء",
+"ex": "This computer is very slow."
+},
+{
+"en": "station",
+"ar": "محطة",
+"ex": "Meet me at the station."
+},
+{
+"en": "fuel",
+"ar": "وقود",
+"ex": "The car needs more fuel."
+}
+],
+"story": {
+"title": "Stuck in Traffic",
+"text": "Khalid usually goes to work by car, but today there is a lot of traffic. The road is full, and the cars are moving very slowly. He looks at his watch and sees that he will be late. At the next station, he leaves his car and takes the train, which is faster. He arrives at the office just in time for his meeting.",
+"q": "How does Khalid finally get to work?",
+"opts": [
+"By bus",
+"By train",
+"On foot"
+],
+"a": 1
+},
+"grammar": {
+"title": "صيغة المقارنة (Comparative)",
+"explain": "للمقارنة بين شيئين نضيف er للكلمات القصيرة (faster)، ونستخدم more مع الكلمات الطويلة (more expensive)، ثم نأتي بكلمة than.",
+"examples": [
+"A train is faster than a bus.",
+"This book is more interesting than that one.",
+"My brother is taller than me."
+],
+"q": "A car is ___ than a bicycle.",
+"opts": [
+"fast",
+"faster",
+"fastest"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "hobby",
+"ar": "هواية",
+"ex": "My hobby is photography."
+},
+{
+"en": "read",
+"ar": "يقرأ",
+"ex": "I read before I sleep."
+},
+{
+"en": "draw",
+"ar": "يرسم بالقلم",
+"ex": "She draws beautiful pictures."
+},
+{
+"en": "swim",
+"ar": "يسبح",
+"ex": "We swim in the sea every summer."
+},
+{
+"en": "music",
+"ar": "موسيقى",
+"ex": "He listens to music on the bus."
+},
+{
+"en": "camera",
+"ar": "كاميرا",
+"ex": "I took this photo with my camera."
+},
+{
+"en": "collect",
+"ar": "يجمع",
+"ex": "He collects old coins."
+},
+{
+"en": "paint",
+"ar": "يرسم بالألوان / يدهن",
+"ex": "They paint the walls blue."
+},
+{
+"en": "fishing",
+"ar": "صيد السمك",
+"ex": "My uncle loves fishing."
+},
+{
+"en": "relax",
+"ar": "يسترخي",
+"ex": "I relax by listening to music."
+}
+],
+"story": {
+"title": "Free Time",
+"text": "Lina has many hobbies. In the morning, she reads a book and draws in her notebook. In the afternoon, she takes photos with her camera. On weekends, she swims with her cousins. Lina says hobbies help her relax after a busy week. Her dream is to hold a photo show one day.",
+"q": "What does Lina do on weekends?",
+"opts": [
+"She swims",
+"She paints walls",
+"She goes fishing"
+],
+"a": 0
+},
+"grammar": {
+"title": "like / love / enjoy + الفعل مع ing",
+"explain": "بعد like و love و enjoy و hate نستخدم الفعل مع ing عندما نتحدث عن الهوايات والأشياء التي نحبها.",
+"examples": [
+"I like reading.",
+"She loves swimming.",
+"They enjoy drawing."
+],
+"q": "He enjoys ___ football.",
+"opts": [
+"play",
+"playing",
+"played"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "street",
+"ar": "شارع",
+"ex": "Our street is quiet."
+},
+{
+"en": "bridge",
+"ar": "جسر",
+"ex": "The bridge is very long."
+},
+{
+"en": "hospital",
+"ar": "مستشفى",
+"ex": "The hospital is near the school."
+},
+{
+"en": "bank",
+"ar": "بنك",
+"ex": "I need to go to the bank."
+},
+{
+"en": "library",
+"ar": "مكتبة عامة",
+"ex": "She studies at the library."
+},
+{
+"en": "corner",
+"ar": "زاوية",
+"ex": "Turn left at the corner."
+},
+{
+"en": "straight",
+"ar": "مستقيم",
+"ex": "Go straight for two blocks."
+},
+{
+"en": "left",
+"ar": "يسار",
+"ex": "Turn left at the traffic light."
+},
+{
+"en": "right",
+"ar": "يمين",
+"ex": "The shop is on the right."
+},
+{
+"en": "map",
+"ar": "خريطة",
+"ex": "Look at the map."
+}
+],
+"story": {
+"title": "Lost in the City",
+"text": "Tom is new in the city, and he cannot find the library. He asks a woman on the street. She says, 'Go straight, then turn left at the bank. The library is on the right, next to the hospital.' Tom thanks her and follows the directions. Five minutes later, he finds the library and smiles.",
+"q": "Where is the library?",
+"opts": [
+"Next to the hospital",
+"Next to the bridge",
+"Behind the bank"
+],
+"a": 0
+},
+"grammar": {
+"title": "فعل الأمر (Imperative)",
+"explain": "نستخدم الفعل في صورته الأساسية لإعطاء تعليمات أو أوامر أو إرشادات. وللنهي نضع Don't قبل الفعل.",
+"examples": [
+"Turn left at the corner.",
+"Open your book.",
+"Don't be late."
+],
+"q": "___ the door, please. It's cold.",
+"opts": [
+"Closing",
+"Close",
+"Closes"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "computer",
+"ar": "حاسوب",
+"ex": "I work on my computer all day."
+},
+{
+"en": "phone",
+"ar": "هاتف",
+"ex": "My phone is charging."
+},
+{
+"en": "internet",
+"ar": "الإنترنت",
+"ex": "The internet is slow today."
+},
+{
+"en": "password",
+"ar": "كلمة مرور",
+"ex": "Don't share your password."
+},
+{
+"en": "screen",
+"ar": "شاشة",
+"ex": "The screen is too bright."
+},
+{
+"en": "battery",
+"ar": "بطارية",
+"ex": "My battery is almost empty."
+},
+{
+"en": "download",
+"ar": "يحمّل ملفًا",
+"ex": "I want to download this app."
+},
+{
+"en": "message",
+"ar": "رسالة",
+"ex": "She sent me a message."
+},
+{
+"en": "website",
+"ar": "موقع إلكتروني",
+"ex": "This website is very useful."
+},
+{
+"en": "charge",
+"ar": "يشحن",
+"ex": "I need to charge my phone."
+}
+],
+"story": {
+"title": "A Weak Battery",
+"text": "Rami is waiting for an important message, but his phone battery is almost empty. He looks for his charger and cannot find it. Finally, he uses his computer to open the website of the company. He reads the message and downloads the file he needs. Later, he charges his phone and sends a reply. Rami learns to charge his phone every night.",
+"q": "Why is Rami worried?",
+"opts": [
+"His screen is broken",
+"His battery is almost empty",
+"He forgot his password"
+],
+"a": 1
+},
+"grammar": {
+"title": "صيغة التفضيل (Superlative)",
+"explain": "للدلالة على الأعلى في المجموعة نستخدم the مع est (the fastest)، أو the most مع الكلمات الطويلة (the most expensive).",
+"examples": [
+"This is the fastest computer in the shop.",
+"She is the tallest girl in the class.",
+"It is the most useful app."
+],
+"q": "Mount Everest is ___ mountain in the world.",
+"opts": [
+"high",
+"higher",
+"the highest"
+],
+"a": 2
+}
+},
+{
+"words": [
+{
+"en": "calendar",
+"ar": "تقويم",
+"ex": "Check the calendar for the date."
+},
+{
+"en": "week",
+"ar": "أسبوع",
+"ex": "I will see you next week."
+},
+{
+"en": "month",
+"ar": "شهر",
+"ex": "February is the shortest month."
+},
+{
+"en": "year",
+"ar": "سنة",
+"ex": "We moved here last year."
+},
+{
+"en": "yesterday",
+"ar": "أمس",
+"ex": "I called him yesterday."
+},
+{
+"en": "tomorrow",
+"ar": "غدًا",
+"ex": "See you tomorrow."
+},
+{
+"en": "tonight",
+"ar": "الليلة",
+"ex": "We are having dinner tonight."
+},
+{
+"en": "birthday",
+"ar": "عيد ميلاد",
+"ex": "Today is my sister's birthday."
+},
+{
+"en": "appointment",
+"ar": "موعد",
+"ex": "I have an appointment at four."
+},
+{
+"en": "season",
+"ar": "فصل من السنة",
+"ex": "Summer is my favorite season."
+}
+],
+"story": {
+"title": "A Busy Week",
+"text": "Maya has a busy week. On Monday, she has a doctor appointment. On Wednesday, she studies for her exam. On Friday, it is her brother's birthday, and the family has dinner at home. Tomorrow is Tuesday, so she checks her calendar again. She promises to rest on the weekend.",
+"q": "What does Maya have on Monday?",
+"opts": [
+"An exam",
+"A doctor appointment",
+"A birthday party"
+],
+"a": 1
+},
+"grammar": {
+"title": "حروف الجر للزمن (at / on / in)",
+"explain": "at مع الساعة (at 5)، و on مع الأيام والتواريخ (on Monday)، و in مع الشهور والسنوات والفصول (in July).",
+"examples": [
+"The class starts at nine.",
+"I visit my uncle on Fridays.",
+"It is hot in summer."
+],
+"q": "My birthday is ___ March.",
+"opts": [
+"at",
+"on",
+"in"
+],
+"a": 2
+}
+},
+{
+"words": [
+{
+"en": "happy",
+"ar": "سعيد",
+"ex": "I am happy to see you."
+},
+{
+"en": "sad",
+"ar": "حزين",
+"ex": "He looks sad today."
+},
+{
+"en": "angry",
+"ar": "غاضب",
+"ex": "Don't be angry with him."
+},
+{
+"en": "tired",
+"ar": "متعب",
+"ex": "I feel tired after work."
+},
+{
+"en": "nervous",
+"ar": "متوتر",
+"ex": "She is nervous about the test."
+},
+{
+"en": "excited",
+"ar": "متحمس",
+"ex": "The kids are excited about the trip."
+},
+{
+"en": "proud",
+"ar": "فخور",
+"ex": "I am proud of you."
+},
+{
+"en": "afraid",
+"ar": "خائف",
+"ex": "He is afraid of dogs."
+},
+{
+"en": "lonely",
+"ar": "وحيد",
+"ex": "She felt lonely in the new city."
+},
+{
+"en": "surprised",
+"ar": "متفاجئ",
+"ex": "We were surprised by the news."
+}
+],
+"story": {
+"title": "Good News",
+"text": "Salma feels nervous because she is waiting for her exam results. Her mother says, 'Don't be afraid, you worked hard.' Suddenly, the phone rings, and Salma gets the news: she passed with high marks. She is surprised, then very excited. Her father says he is proud of her. That evening, the whole family celebrates.",
+"q": "How does Salma feel at the beginning?",
+"opts": [
+"Nervous",
+"Angry",
+"Sleepy"
+],
+"a": 0
+},
+"grammar": {
+"title": "ظروف التكرار (always / usually / sometimes / never)",
+"explain": "تدل على عدد مرات حدوث الفعل، وتأتي عادةً قبل الفعل الأساسي: always دائمًا، usually عادةً، sometimes أحيانًا، never أبدًا.",
+"examples": [
+"I always drink water in the morning.",
+"He sometimes walks to work.",
+"We never eat late."
+],
+"q": "She ___ forgets her keys. She is very careful.",
+"opts": [
+"always",
+"never",
+"usually"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "animal",
+"ar": "حيوان",
+"ex": "A lion is a wild animal."
+},
+{
+"en": "bird",
+"ar": "طائر",
+"ex": "The bird is singing."
+},
+{
+"en": "tree",
+"ar": "شجرة",
+"ex": "We sat under a big tree."
+},
+{
+"en": "river",
+"ar": "نهر",
+"ex": "The river is very wide."
+},
+{
+"en": "mountain",
+"ar": "جبل",
+"ex": "They climbed the mountain."
+},
+{
+"en": "forest",
+"ar": "غابة",
+"ex": "There are many animals in the forest."
+},
+{
+"en": "flower",
+"ar": "زهرة",
+"ex": "She gave me a red flower."
+},
+{
+"en": "sea",
+"ar": "بحر",
+"ex": "The sea is calm today."
+},
+{
+"en": "sky",
+"ar": "سماء",
+"ex": "The sky is full of stars."
+},
+{
+"en": "island",
+"ar": "جزيرة",
+"ex": "We spent a week on a small island."
+}
+],
+"story": {
+"title": "A Day in the Forest",
+"text": "On Saturday, a group of students went to the forest. They walked beside a river and saw many birds in the trees. One student found a beautiful flower near a rock. Later, they climbed a small mountain and looked at the sky. From the top, they could see the sea in the distance. Everyone said it was the best trip of the year.",
+"q": "What did the students see in the distance?",
+"opts": [
+"A city",
+"The sea",
+"An island"
+],
+"a": 1
+},
+"grammar": {
+"title": "الجمع في الإنجليزية (Plural Nouns)",
+"explain": "نضيف s لمعظم الأسماء (book / books)، و es بعد s, sh, ch, x (box / boxes). وبعض الأسماء شاذة: man / men، child / children، foot / feet.",
+"examples": [
+"I have two brothers.",
+"There are three boxes here.",
+"The children are playing."
+],
+"q": "There are five ___ in the garden.",
+"opts": [
+"tree",
+"trees",
+"treees"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "menu",
+"ar": "قائمة الطعام",
+"ex": "Can I see the menu, please?"
+},
+{
+"en": "waiter",
+"ar": "نادل",
+"ex": "The waiter brought our drinks."
+},
+{
+"en": "order",
+"ar": "يطلب طعامًا",
+"ex": "I would like to order a salad."
+},
+{
+"en": "bill",
+"ar": "الفاتورة",
+"ex": "Could we have the bill, please?"
+},
+{
+"en": "tip",
+"ar": "بقشيش",
+"ex": "We left a tip for the waiter."
+},
+{
+"en": "table",
+"ar": "طاولة",
+"ex": "A table for four, please."
+},
+{
+"en": "dessert",
+"ar": "حلوى بعد الطعام",
+"ex": "I'll have ice cream for dessert."
+},
+{
+"en": "soup",
+"ar": "شوربة",
+"ex": "The soup is hot."
+},
+{
+"en": "chicken",
+"ar": "دجاج",
+"ex": "Grilled chicken is my favorite."
+},
+{
+"en": "juice",
+"ar": "عصير",
+"ex": "Orange juice, please."
+}
+],
+"story": {
+"title": "Dinner Out",
+"text": "Fatima and her husband eat dinner at a small restaurant. The waiter gives them a table near the window and brings the menu. They order chicken, soup, and orange juice. For dessert, they share a piece of cake. When they finish, the husband asks for the bill and leaves a tip. They agree that the food was delicious.",
+"q": "What do they have for dessert?",
+"opts": [
+"Ice cream",
+"Cake",
+"Fruit"
+],
+"a": 1
+},
+"grammar": {
+"title": "some / any / much / many",
+"explain": "some في الإثبات، و any في النفي والسؤال. many مع المعدود (many apples)، و much مع غير المعدود (much water) وغالبًا في النفي والسؤال.",
+"examples": [
+"I have some milk.",
+"We don't have any eggs.",
+"How many students are there?"
+],
+"q": "There isn't ___ sugar in the tea.",
+"opts": [
+"some",
+"any",
+"many"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "money",
+"ar": "مال",
+"ex": "I don't have much money."
+},
+{
+"en": "account",
+"ar": "حساب بنكي",
+"ex": "I opened a bank account."
+},
+{
+"en": "save",
+"ar": "يدّخر",
+"ex": "She saves money every month."
+},
+{
+"en": "spend",
+"ar": "ينفق",
+"ex": "Don't spend all your money."
+},
+{
+"en": "pay",
+"ar": "يدفع",
+"ex": "I will pay by card."
+},
+{
+"en": "borrow",
+"ar": "يستعير / يقترض",
+"ex": "Can I borrow your pen?"
+},
+{
+"en": "lend",
+"ar": "يُقرض / يُعير",
+"ex": "Could you lend me some money?"
+},
+{
+"en": "cost",
+"ar": "يكلّف / تكلفة",
+"ex": "How much does it cost?"
+},
+{
+"en": "coin",
+"ar": "عملة معدنية",
+"ex": "I found a coin on the street."
+},
+{
+"en": "budget",
+"ar": "ميزانية",
+"ex": "We have a small budget."
+}
+],
+"story": {
+"title": "Saving Money",
+"text": "Hamza wants to buy a laptop, but it costs a lot. He makes a budget and saves some money every month. He doesn't spend it on small things. His brother offers to lend him a little, but Hamza says he prefers to pay with his own money. After six months, he checks his bank account and sees enough money. He buys the laptop proudly.",
+"q": "What does Hamza want to buy?",
+"opts": [
+"A car",
+"A laptop",
+"A phone"
+],
+"a": 1
+},
+"grammar": {
+"title": "المضارع التام (Present Perfect)",
+"explain": "نستخدم have / has + التصريف الثالث للفعل للحديث عن تجربة، أو عن شيء بدأ في الماضي وله أثر الآن.",
+"examples": [
+"I have finished my homework.",
+"She has visited Turkey.",
+"We have lived here for five years."
+],
+"q": "He ___ already eaten lunch.",
+"opts": [
+"have",
+"has",
+"is"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "team",
+"ar": "فريق",
+"ex": "Our team won the match."
+},
+{
+"en": "match",
+"ar": "مباراة",
+"ex": "The match starts at six."
+},
+{
+"en": "goal",
+"ar": "هدف",
+"ex": "He scored a goal."
+},
+{
+"en": "player",
+"ar": "لاعب",
+"ex": "She is a great player."
+},
+{
+"en": "coach",
+"ar": "مدرّب",
+"ex": "The coach is very strict."
+},
+{
+"en": "win",
+"ar": "يفوز",
+"ex": "We want to win the cup."
+},
+{
+"en": "lose",
+"ar": "يخسر",
+"ex": "They didn't lose any games."
+},
+{
+"en": "race",
+"ar": "سباق",
+"ex": "He won the race."
+},
+{
+"en": "strong",
+"ar": "قوي",
+"ex": "You are very strong."
+},
+{
+"en": "practice",
+"ar": "يتدرّب",
+"ex": "We practice every afternoon."
+}
+],
+"story": {
+"title": "The Final Match",
+"text": "Today is the final match, and the whole team is excited. The coach tells the players to stay calm and play together. In the first half, the other team scores a goal. In the second half, Omar scores two goals, and his team wins. The players jump with joy and lift the cup. The coach says they won because they practiced hard.",
+"q": "Who scored two goals?",
+"opts": [
+"The coach",
+"Omar",
+"The goalkeeper"
+],
+"a": 1
+},
+"grammar": {
+"title": "have to / must للإلزام",
+"explain": "نستخدم must و have to للتعبير عن الواجب. وdon't have to تعني أنه ليس مطلوبًا منك، بينما mustn't تعني أن الفعل ممنوع.",
+"examples": [
+"I must finish this today.",
+"She has to wake up early.",
+"You mustn't touch that."
+],
+"q": "You ___ run in the library. It is forbidden.",
+"opts": [
+"don't have to",
+"mustn't",
+"can"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "call",
+"ar": "يتصل هاتفيًا",
+"ex": "I will call you later."
+},
+{
+"en": "reply",
+"ar": "يردّ",
+"ex": "Please reply to my message."
+},
+{
+"en": "speak",
+"ar": "يتحدث",
+"ex": "Can you speak slowly?"
+},
+{
+"en": "listen",
+"ar": "يستمع",
+"ex": "Listen carefully to the teacher."
+},
+{
+"en": "hear",
+"ar": "يسمع",
+"ex": "I can't hear you well."
+},
+{
+"en": "number",
+"ar": "رقم",
+"ex": "What is your phone number?"
+},
+{
+"en": "signal",
+"ar": "إشارة / تغطية",
+"ex": "There is no signal here."
+},
+{
+"en": "conversation",
+"ar": "محادثة",
+"ex": "We had a long conversation."
+},
+{
+"en": "repeat",
+"ar": "يكرّر",
+"ex": "Could you repeat that, please?"
+},
+{
+"en": "email",
+"ar": "بريد إلكتروني",
+"ex": "I will send you an email."
+}
+],
+"story": {
+"title": "A Bad Signal",
+"text": "Basel calls his friend, but the signal is bad. 'I can't hear you,' says Basel. 'Could you repeat that, please?' His friend tries again, but the line is still weak. So Basel sends an email instead. A few minutes later, his friend replies with the information. Basel smiles because the problem is solved.",
+"q": "What does Basel do when the signal is bad?",
+"opts": [
+"He sends an email",
+"He goes to the shop",
+"He turns off the phone"
+],
+"a": 0
+},
+"grammar": {
+"title": "الماضي المستمر (Past Continuous)",
+"explain": "نستخدمه لوصف حدث كان مستمرًا في وقت محدد في الماضي. الصيغة: was / were + الفعل مع ing.",
+"examples": [
+"I was sleeping when you called.",
+"They were watching TV at eight.",
+"She was cooking dinner."
+],
+"q": "At 9 o'clock last night, we ___ a movie.",
+"opts": [
+"watched",
+"were watching",
+"watch"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "clean",
+"ar": "ينظّف",
+"ex": "I clean my room on Sundays."
+},
+{
+"en": "wash",
+"ar": "يغسل",
+"ex": "She washes the dishes after lunch."
+},
+{
+"en": "iron",
+"ar": "يكوي",
+"ex": "He irons his shirt every morning."
+},
+{
+"en": "sweep",
+"ar": "يكنس",
+"ex": "Please sweep the floor."
+},
+{
+"en": "laundry",
+"ar": "الغسيل",
+"ex": "I do the laundry on Saturdays."
+},
+{
+"en": "trash",
+"ar": "القمامة",
+"ex": "Take out the trash, please."
+},
+{
+"en": "tidy",
+"ar": "مرتّب",
+"ex": "Keep your desk tidy."
+},
+{
+"en": "dishes",
+"ar": "الصحون",
+"ex": "Who will wash the dishes?"
+},
+{
+"en": "chore",
+"ar": "مهمة منزلية",
+"ex": "Washing dishes is my least favorite chore."
+},
+{
+"en": "help",
+"ar": "يساعد",
+"ex": "Can you help me clean the kitchen?"
+}
+],
+"story": {
+"title": "Saturday Chores",
+"text": "Every Saturday, Mona's family cleans the house together. Dad sweeps the floor, and Mom does the laundry. Mona washes the dishes and takes out the trash. Her little brother helps by keeping his toys tidy. After two hours, the house is clean, and they eat a big lunch. Mona says that sharing chores makes the work easy.",
+"q": "What does Dad do?",
+"opts": [
+"Sweeps the floor",
+"Washes the dishes",
+"Does the laundry"
+],
+"a": 0
+},
+"grammar": {
+"title": "النصيحة بـ should / shouldn't",
+"explain": "نستخدم should لإعطاء نصيحة، وshouldn't للنصح بعدم فعل شيء. وبعدهما الفعل في صورته الأساسية.",
+"examples": [
+"You should drink more water.",
+"He shouldn't stay up late.",
+"We should help our parents."
+],
+"q": "You look tired. You ___ rest.",
+"opts": [
+"should",
+"shouldn't",
+"are"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "holiday",
+"ar": "عطلة",
+"ex": "We have a holiday on Friday."
+},
+{
+"en": "party",
+"ar": "حفلة",
+"ex": "Her party starts at seven."
+},
+{
+"en": "gift",
+"ar": "هدية",
+"ex": "He gave me a nice gift."
+},
+{
+"en": "wedding",
+"ar": "زفاف",
+"ex": "We went to a beautiful wedding."
+},
+{
+"en": "guest",
+"ar": "ضيف",
+"ex": "We have guests tonight."
+},
+{
+"en": "celebrate",
+"ar": "يحتفل",
+"ex": "They celebrate every year."
+},
+{
+"en": "candle",
+"ar": "شمعة",
+"ex": "She blew out the candles."
+},
+{
+"en": "decoration",
+"ar": "زينة",
+"ex": "The room is full of decorations."
+},
+{
+"en": "congratulations",
+"ar": "مبروك",
+"ex": "Congratulations on your new job!"
+},
+{
+"en": "wish",
+"ar": "أمنية / يتمنى",
+"ex": "I wish you good luck."
+}
+],
+"story": {
+"title": "The Surprise Party",
+"text": "Dina's friends plan a surprise party for her birthday. They put decorations in the living room and hide the gifts. When Dina enters, everyone shouts, 'Happy birthday!' She is surprised and laughs. She blows out the candles and makes a wish. Her cousin says congratulations, and all the guests enjoy the cake.",
+"q": "What does Dina do with the candles?",
+"opts": [
+"Blows them out",
+"Hides them",
+"Buys them"
+],
+"a": 0
+},
+"grammar": {
+"title": "الشرط الأول (If + present, will + verb)",
+"explain": "نستخدمه للحديث عن احتمال حقيقي في المستقبل: If + مضارع بسيط، ثم will + الفعل.",
+"examples": [
+"If it rains, we will stay at home.",
+"If you study, you will pass.",
+"She will be happy if you call."
+],
+"q": "If I ___ free tomorrow, I will visit you.",
+"opts": [
+"am",
+"will be",
+"was"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "environment",
+"ar": "البيئة",
+"ex": "We must protect the environment."
+},
+{
+"en": "pollution",
+"ar": "التلوث",
+"ex": "Pollution is a big problem."
+},
+{
+"en": "recycle",
+"ar": "يعيد التدوير",
+"ex": "We recycle paper and plastic."
+},
+{
+"en": "waste",
+"ar": "نفايات / يهدر",
+"ex": "Don't waste water."
+},
+{
+"en": "plastic",
+"ar": "بلاستيك",
+"ex": "Plastic bags harm the sea."
+},
+{
+"en": "climate",
+"ar": "المناخ",
+"ex": "The climate is changing."
+},
+{
+"en": "protect",
+"ar": "يحمي",
+"ex": "We should protect animals."
+},
+{
+"en": "planet",
+"ar": "كوكب",
+"ex": "Earth is our planet."
+},
+{
+"en": "solar",
+"ar": "شمسي",
+"ex": "Solar energy is clean."
+},
+{
+"en": "electricity",
+"ar": "كهرباء",
+"ex": "Turn off the lights to save electricity."
+}
+],
+"story": {
+"title": "Our Planet",
+"text": "Our planet has a problem: pollution. Cars and factories make the air dirty, and plastic fills the sea. But people can help. Students at Ali's school recycle paper and plastic every week. They also turn off the lights to save electricity. Ali says that small actions protect the environment, and everyone can start today.",
+"q": "What do the students recycle?",
+"opts": [
+"Paper and plastic",
+"Glass and metal",
+"Food"
+],
+"a": 0
+},
+"grammar": {
+"title": "المبني للمجهول (Present Passive)",
+"explain": "نستخدمه عندما يهمنا الحدث أكثر من الفاعل. الصيغة: am / is / are + التصريف الثالث للفعل.",
+"examples": [
+"English is spoken all over the world.",
+"The room is cleaned every day.",
+"These bags are made of paper."
+],
+"q": "Rice ___ in many countries.",
+"opts": [
+"grows",
+"is grown",
+"is growing"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "university",
+"ar": "جامعة",
+"ex": "He studies at the university."
+},
+{
+"en": "degree",
+"ar": "شهادة جامعية",
+"ex": "She has a degree in science."
+},
+{
+"en": "engineer",
+"ar": "مهندس",
+"ex": "My uncle is an engineer."
+},
+{
+"en": "nurse",
+"ar": "ممرّضة",
+"ex": "The nurse is very kind."
+},
+{
+"en": "dream",
+"ar": "حلم",
+"ex": "My dream is to travel."
+},
+{
+"en": "future",
+"ar": "المستقبل",
+"ex": "I think about my future."
+},
+{
+"en": "career",
+"ar": "مسيرة مهنية",
+"ex": "She wants a career in medicine."
+},
+{
+"en": "choose",
+"ar": "يختار",
+"ex": "It is hard to choose."
+},
+{
+"en": "succeed",
+"ar": "ينجح",
+"ex": "You will succeed if you try."
+},
+{
+"en": "improve",
+"ar": "يحسّن / يتحسّن",
+"ex": "I want to improve my English."
+}
+],
+"story": {
+"title": "A Big Dream",
+"text": "Nadia is in her last year of school, and she is thinking about her future. She wants to study at the university and become an engineer. Her parents support her dream, and her teacher helps her choose a good subject. Every evening, Nadia studies and improves her English. She believes she will succeed if she works hard.",
+"q": "What does Nadia want to become?",
+"opts": [
+"A nurse",
+"An engineer",
+"A teacher"
+],
+"a": 1
+},
+"grammar": {
+"title": "المستقبل بـ be going to",
+"explain": "نستخدم am / is / are going to + الفعل للحديث عن خطة نويناها، أو عن توقع واضح بناءً على ما نراه.",
+"examples": [
+"I am going to study medicine.",
+"She is going to travel next month.",
+"Look at the clouds! It is going to rain."
+],
+"q": "We ___ going to buy a new car.",
+"opts": [
+"is",
+"am",
+"are"
+],
+"a": 2
+}
+},
+{
+"words": [
+{
+"en": "news",
+"ar": "أخبار",
+"ex": "I read the news every morning."
+},
+{
+"en": "newspaper",
+"ar": "جريدة",
+"ex": "My father reads the newspaper."
+},
+{
+"en": "channel",
+"ar": "قناة تلفزيونية",
+"ex": "Which channel is the match on?"
+},
+{
+"en": "program",
+"ar": "برنامج",
+"ex": "This program is very funny."
+},
+{
+"en": "actor",
+"ar": "ممثل",
+"ex": "He is my favorite actor."
+},
+{
+"en": "film",
+"ar": "فيلم",
+"ex": "We watched a new film."
+},
+{
+"en": "photo",
+"ar": "صورة فوتوغرافية",
+"ex": "She took a nice photo."
+},
+{
+"en": "advertisement",
+"ar": "إعلان",
+"ex": "I saw an advertisement for shoes."
+},
+{
+"en": "popular",
+"ar": "مشهور / شائع",
+"ex": "This song is very popular."
+},
+{
+"en": "headline",
+"ar": "عنوان رئيسي",
+"ex": "The headline caught my attention."
+}
+],
+"story": {
+"title": "Movie Night",
+"text": "On Friday night, Yusuf and his sister choose a film to watch. They read the news about a popular film on the internet and look at the photos of the actors. They find the film on a TV channel and make some popcorn. The film is long, but they enjoy every minute. At the end, Yusuf says it was the best program of the week.",
+"q": "What do they make before the film?",
+"opts": [
+"Popcorn",
+"Soup",
+"Tea"
+],
+"a": 0
+},
+"grammar": {
+"title": "أسماء الموصول (who / which / that)",
+"explain": "نستخدم who للأشخاص، و which للأشياء والحيوانات، و that للاثنين معًا، لربط جملة بالاسم الذي قبلها.",
+"examples": [
+"The man who lives next door is a doctor.",
+"This is the book which I bought.",
+"The film that we saw was great."
+],
+"q": "The girl ___ sits next to me is my cousin.",
+"opts": [
+"who",
+"which",
+"what"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "kind",
+"ar": "لطيف / طيّب",
+"ex": "She is kind to everyone."
+},
+{
+"en": "honest",
+"ar": "صادق",
+"ex": "An honest person tells the truth."
+},
+{
+"en": "brave",
+"ar": "شجاع",
+"ex": "The firefighter was very brave."
+},
+{
+"en": "funny",
+"ar": "مضحك",
+"ex": "My uncle is funny."
+},
+{
+"en": "shy",
+"ar": "خجول",
+"ex": "He is too shy to speak."
+},
+{
+"en": "clever",
+"ar": "ذكي",
+"ex": "She is a clever student."
+},
+{
+"en": "lazy",
+"ar": "كسول",
+"ex": "Don't be lazy, start now."
+},
+{
+"en": "polite",
+"ar": "مؤدّب",
+"ex": "Be polite to your guests."
+},
+{
+"en": "patient",
+"ar": "صبور",
+"ex": "A good teacher is patient."
+},
+{
+"en": "generous",
+"ar": "كريم",
+"ex": "He is generous with his time."
+}
+],
+"story": {
+"title": "The Brave Boy",
+"text": "Last winter, a small cat was stuck in a high tree near Bilal's house. Everyone was afraid to climb because the tree was old. Bilal was brave and also clever. He took a ladder and climbed slowly and patiently. He brought the cat down, and the neighbors clapped. The owner said Bilal was the kindest boy in the street.",
+"q": "Who saved the cat?",
+"opts": [
+"Bilal",
+"The owner",
+"A fireman"
+],
+"a": 0
+},
+"grammar": {
+"title": "too / enough",
+"explain": "too تعني أكثر من اللازم بمعنى سلبي (too hot). و enough تعني كافٍ: تأتي بعد الصفة (old enough) وقبل الاسم (enough time).",
+"examples": [
+"The tea is too hot to drink.",
+"She is old enough to drive.",
+"We have enough time."
+],
+"q": "He is not tall ___ to reach the shelf.",
+"opts": [
+"too",
+"enough",
+"very"
+],
+"a": 1
+}
+},
+{
+"words": [
+{
+"en": "welcome",
+"ar": "أهلًا بك",
+"ex": "Welcome to our home."
+},
+{
+"en": "please",
+"ar": "من فضلك",
+"ex": "Please sit down."
+},
+{
+"en": "sorry",
+"ar": "آسف",
+"ex": "I'm sorry I'm late."
+},
+{
+"en": "thanks",
+"ar": "شكرًا",
+"ex": "Thanks for your help."
+},
+{
+"en": "excuse",
+"ar": "يعذر / عذر",
+"ex": "Excuse me, where is the station?"
+},
+{
+"en": "introduce",
+"ar": "يعرّف / يقدّم",
+"ex": "Let me introduce my friend."
+},
+{
+"en": "meet",
+"ar": "يقابل",
+"ex": "Nice to meet you."
+},
+{
+"en": "agree",
+"ar": "يوافق",
+"ex": "I agree with you."
+},
+{
+"en": "disagree",
+"ar": "لا يوافق",
+"ex": "I disagree, but I respect your opinion."
+},
+{
+"en": "goodbye",
+"ar": "وداعًا",
+"ex": "Say goodbye to your friends."
+}
+],
+"story": {
+"title": "A New Neighbor",
+"text": "A new neighbor moves in next door, and Hassan goes to say hello. 'Welcome to the street,' he says. 'Let me introduce myself. My name is Hassan.' The neighbor smiles and says, 'Nice to meet you. Thanks for coming.' They talk for a while and agree to have tea on Friday. Hassan says goodbye and walks home happily.",
+"q": "When will they have tea?",
+"opts": [
+"On Friday",
+"On Monday",
+"Tonight"
+],
+"a": 0
+},
+"grammar": {
+"title": "used to للعادات الماضية",
+"explain": "نستخدم used to + الفعل للحديث عن عادة أو حالة كانت في الماضي ولم تعد موجودة الآن.",
+"examples": [
+"I used to play football every day.",
+"She used to live in a small village.",
+"We didn't use to have a car."
+],
+"q": "He ___ live in London, but he moved last year.",
+"opts": [
+"used to",
+"uses to",
+"using to"
+],
+"a": 0
+}
+},
+{
+"words": [
+{
+"en": "success",
+"ar": "نجاح",
+"ex": "Hard work leads to success."
+},
+{
+"en": "effort",
+"ar": "جهد",
+"ex": "She put a lot of effort into her studies."
+},
+{
+"en": "challenge",
+"ar": "تحدٍّ",
+"ex": "Learning a language is a challenge."
+},
+{
+"en": "achieve",
+"ar": "يحقق",
+"ex": "You can achieve your goals."
+},
+{
+"en": "confidence",
+"ar": "ثقة بالنفس",
+"ex": "Speaking daily gives you confidence."
+},
+{
+"en": "motivation",
+"ar": "دافع / حافز",
+"ex": "My motivation is my family."
+},
+{
+"en": "progress",
+"ar": "تقدّم",
+"ex": "I am making good progress."
+},
+{
+"en": "opportunity",
+"ar": "فرصة",
+"ex": "This job is a great opportunity."
+},
+{
+"en": "patience",
+"ar": "صبر",
+"ex": "Learning needs patience."
+},
+{
+"en": "continue",
+"ar": "يستمر / يواصل",
+"ex": "Please continue reading."
+}
+],
+"story": {
+"title": "Small Steps",
+"text": "Layan decided to speak English every day. At first, it was a big challenge, and she made many mistakes. But she did not stop. She put in effort, listened to stories, and recorded her voice. After three months, she noticed real progress and felt more confident. She says success comes from small steps and patience.",
+"q": "What does Layan say success comes from?",
+"opts": [
+"Luck",
+"Small steps and patience",
+"Money"
+],
+"a": 1
+},
+"grammar": {
+"title": "الشرط الثاني (If + past, would + verb)",
+"explain": "نستخدمه لوصف خيال أو احتمال بعيد في الحاضر أو المستقبل: If + ماضٍ بسيط، ثم would + الفعل.",
+"examples": [
+"If I had more time, I would learn French.",
+"If she were rich, she would travel the world.",
+"What would you do if you won a prize?"
+],
+"q": "If I ___ a bird, I would fly to the mountains.",
+"opts": [
+"am",
+"were",
+"will be"
+],
+"a": 1
+}
+}
+]
+}
